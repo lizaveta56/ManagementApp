@@ -1,0 +1,16 @@
+[
+    {
+      "title": "New event",
+      "description": "INFO 1",
+      "date": "2021-04-01 00:00:00+00:00",
+      "room": "102",
+      "creatorId": 1
+    },
+    {
+      "projectName": "New event 2",
+      "description": "INFO 2",
+      "date": "2016-04-06 00:00:00+00:00",
+      "room": "306",
+      "creatorId": 2
+    }
+  ]

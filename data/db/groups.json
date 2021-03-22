@@ -1,0 +1,17 @@
+[
+  {
+    "groupName": "Group #1",
+    "description": "INFO 1",
+    "groupTeacherId": 1
+  },
+  {
+    "projectName": "Group #2",
+    "description": "INFO 2",
+    "groupTeacherId": 2
+  },
+  {
+    "projectName": "Group #3",
+    "description": "INFO 3",
+    "groupTeacherId": 2
+  }
+]

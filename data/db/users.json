@@ -1,0 +1,23 @@
+[
+  {
+    "fullName": "Liza",
+    "email": "liza@mail.com",
+    "userInfo": "some info about users/skills/progects",
+    "pass": "12345",
+    "photo": "src"
+  },
+  {
+    "fullName": "Katya",
+    "email": "Katya@mail.com",
+    "userInfo": "some info about users/skills/progects",
+    "pass": "12345",
+    "photo": "src"
+  },
+  {
+    "fullName": "Misha",
+    "email": "Misha@mail.com",
+    "userInfo": "some info about users/skills/progects",
+    "pass": "12345",
+    "photo": "src"
+  }
+]

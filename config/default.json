@@ -1,0 +1,25 @@
+{
+  "app": {
+    "port": 9001
+  },
+  "db": {
+    "name": "managementApp",
+    "user": "admin",
+    "pass": "1q2w#E$R",
+    "options": {
+      "dialect": "mysql",
+      "host": "group402.cnleni30tctu.eu-central-1.rds.amazonaws.com",
+      "port": 3306,
+      "define": {
+        "timestamps": false,
+        "paranoid": false,
+        "freezeTableName": true
+      },
+      "logging": false
+    }
+  },
+  "cookie": {
+    "key": "secret key",
+    "auth": "__auth_id"
+  }
+}
